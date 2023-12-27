@@ -7,12 +7,12 @@
 
 <p align="left"> <a href="https://twitter.com/nayank53" target="blank"><img src="https://img.shields.io/twitter/follow/nayank53?logo=twitter&style=for-the-badge" alt="nayank53" /></a> </p>
 
-- 🌱 I’m currently learning **Express JS, NodeJS, Mongo DB**
-
 - 👨‍💻 All of my projects are available at
 - [https://nvk-portfolio.netlify.app/](https://nvk-portfolio.netlify.app/)
 
 - 📫 How to reach me **nayankamble712@gmail.com**
+
+- 🌱 I’m currently learning **Express JS, NodeJS, Mongo DB** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
